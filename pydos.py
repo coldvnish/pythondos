@@ -1,6 +1,6 @@
-#Made by svrn#1098
-#Contributed to github
-#skrrrtttt
+#Made by atomic#7157
+#GHXTEAM
+
 
 import sys
 import os
